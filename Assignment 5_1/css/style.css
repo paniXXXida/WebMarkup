@@ -1,0 +1,11 @@
+body
+{
+background-image: url("../../img/White_shark.png");
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+p
+    {
+    width: 600px;
+    }
